@@ -6,7 +6,7 @@ using UnityEngine;
 //The main class of this script
 public class CloudFloatScript : MonoBehaviour
 {
-    public float speed = -0.1f;
+    public float speed = 0.09F;
     
     // Start is called before the first frame update
     void Start()

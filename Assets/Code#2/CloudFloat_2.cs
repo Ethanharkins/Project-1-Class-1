@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CloudFloat_2 : MonoBehaviour
 {
-     public float speed = 0.2F;
+     public float speed = 0.07F;
     // Start is called before the first frame update
     void Start()
     {
